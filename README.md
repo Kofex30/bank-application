@@ -1,4 +1,4 @@
-# 💳 BankApplication
+# 💳 Bank Application
 
 This project is a **Banking Application** where users can perform various banking transactions. Users can manage their accounts, view balances, and make money transfers. The application offers a user-friendly interface and a secure transaction infrastructure.
 
